@@ -1,4 +1,10 @@
 // Styling for the team section
+
+#team-members-row {
+  display: flex;
+  justify-content: center;
+}
+
 .team-member {
   margin-bottom: 50px;
   text-align: center;
