@@ -23,10 +23,10 @@
   }
 }
 
-//@media(max-width: 992px) {
+@media(max-width: 992px) {
   #team-members-row {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-//}
+}
