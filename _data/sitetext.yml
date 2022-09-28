@@ -145,7 +145,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Zásady ochrany osobních údajů"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
@@ -304,7 +304,7 @@ es: &DEFAULT_ES
     submit: "Enviar Mensaje"
 
   footer:
-    legal: "Política de Privacidad"
+    legal: "Zásady ochrany osobních údajů"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
@@ -459,7 +459,7 @@ de: &DEFAULT_DE
     submit: "Nachricht absenden"
 
   footer:
-    legal: "Datenschutzerklärung"
+    legal: "Zásady ochrany osobních údajů"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
